@@ -1,6 +1,6 @@
 ﻿# Created by: T0XlC ᨐ
 #
-# insert 241 HTLM entities & numbers from 0 to Z 
+# insert 241 HTML entities & numbers from 0 to Z 
 # ex : &lt; &gt; &amp; &quot; &apos; &cent; &pound; &yen; &euro; &copy; &reg;  
 i0& i1# i21 i36 i40 i5;
 i1& i2# i31 i46 i50 i6;
